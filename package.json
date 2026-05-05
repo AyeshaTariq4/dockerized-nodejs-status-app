@@ -1,0 +1,12 @@
+{
+  "name": "dockerized-nodejs-status-app",
+  "version": "1.0.0",
+  "description": "A Dockerized Node.js app with custom routes and environment variables",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
