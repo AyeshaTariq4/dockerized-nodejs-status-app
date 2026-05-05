@@ -19,3 +19,13 @@ A simple Node.js application containerized using Docker with custom routes and e
 - Containerization
 - Port mapping
 - Working with environment variables
+## 📸 Project Preview
+
+### Home Page
+![Home](img1.jpeg)
+
+### About Page
+![About](img2.jpeg)
+
+### Status API
+![Status](img3.jpeg)
